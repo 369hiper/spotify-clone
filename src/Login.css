@@ -1,0 +1,25 @@
+.login{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.login > img {
+    width: 100%;
+
+}
+
+.login > a {
+    font-family:  Arial;
+    /* width: 100%; */
+    padding: 20px;
+    border-radius: 99px;
+    color: aliceblue;
+    padding: 20px;
+    background-color: #1db954;
+    border-radius: 99px;
+    font-weight: 800;
+    text-decoration: none;
+    cursor: pointer;
+}
